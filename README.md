@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-hamming/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-hamming/actions/workflows/ruby.yml)
+
 # Hamming
 
 Calculate the Hamming difference between two DNA strands.
